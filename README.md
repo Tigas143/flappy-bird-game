@@ -11,8 +11,7 @@ This project is a Flappy Bird clone created using the Unity game engine. The gam
 - **Classic Gameplay**: Tap to make the bird flap its wings and navigate through obstacles.
 - **Randomized Obstacles**: Pipes are randomly generated to provide a unique challenge each time.
 - **High Score Tracking**: Keep track of your highest score to challenge yourself.
-- **Simple Controls**: Play using simple tap or click controls.
-- **Sound Effects**: Includes free sound effects to enhance gameplay experience.
+- **Simple Controls**: Play using simple space bar taps.
 
 ## Getting Started
 
@@ -27,7 +26,7 @@ This project is a Flappy Bird clone created using the Unity game engine. The gam
    git clone https://github.com/YourUsername/FlappyBirdClone.git
 
 ### Running the Game
-1. Open the "My project.exe".
+1. Run the "My project.exe" file.
 
 ## Contribution
 Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
