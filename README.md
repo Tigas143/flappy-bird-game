@@ -26,7 +26,6 @@ This project is a Flappy Bird clone created using the Unity game engine. The gam
    ```sh
    git clone https://github.com/YourUsername/FlappyBirdClone.git
 
-
 ## Contribution
 Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
 
