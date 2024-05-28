@@ -25,3 +25,15 @@ This project is a Flappy Bird clone created using the Unity game engine. The gam
 1. Clone the repository:
    ```sh
    git clone https://github.com/YourUsername/FlappyBirdClone.git
+
+
+### Contribution
+Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgements
+Developed by Your Name
+Inspired by the original Flappy Bird game created by Dong Nguyen.
+For more information, refer to the repository on GitHub.
