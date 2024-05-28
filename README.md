@@ -33,6 +33,6 @@ Contributions are welcome! If you have suggestions or find issues, please open a
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
-Developed by Your Name
+Developed by Tiago Aleixo   
 Inspired by the original Flappy Bird game created by Dong Nguyen.
-For more information, refer to the repository on GitHub.
+For more information, refer to the <a href="https://github.com/Tigas143/flappy-bird-game">repository</a> on GitHub.
